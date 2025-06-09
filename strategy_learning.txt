@@ -1,0 +1,9 @@
+Smart Money Strategy:
+- Identify liquidity sweep (equal highs or equal lows taken out)
+- Wait for Break of Structure (BOS) in the direction of sweep
+- Look for Fair Value Gap (FVG) inside BOS leg
+- Entry: Inside FVG with RSI divergence confirmation
+- SL: Below swing low / Above swing high
+- TP: At next liquidity zone (previous highs/lows)
+- Use 21 EMA to confirm trend direction
+- Avoid entries during low volume (confirmed by volume spike)
